@@ -1,0 +1,2 @@
+GET /movies?min+rating=9.8 //쿼리 파라미터
+GET movies?release_Date=2022
